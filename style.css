@@ -10,45 +10,6 @@
   src: url('./fonts/Mulish/Mulish-VariableFont_wght.ttf');
 }
 
-/* Animations */
-/* @keyframes slideFromTop {
-  0% {
-    transform: translateY(-150px);
-  }
-  100% {
-    transform: translateY(0);
-  }
-}
-
-@keyframes slideFromLeft {
-  0% {
-    transform: translateX(-150px);
-  }
-  100% {
-    transform: translateX(0);
-  }
-}
-
-@keyframes slideFromRight {
-    0% {
-      transform: translateX(150px);
-    }
-    100% {
-      transform: translateX(0);
-    }
-  }
-
-@keyframes slideFromBottom {
-  0% {
-    transform: translateY(150px);
-  }
-  100% {
-    transform: translateY(0);
-  }
-} */
-/* End Animations */
-
-
 /* Header Section */
 
 header {
@@ -218,7 +179,7 @@ header {
   letter-spacing: 2px;
   color: #555453;
   margin-bottom: 20px;
-  /* animation: slideFromTop 0.8s ease-out; */
+  text-align: center;
 }
 .hero-section .text-container .top-heading {
   font-family: 'Playfair Display', sans-serif;
@@ -638,7 +599,7 @@ footer {
     line-height: 0.8em;
   }
   .hero-section {
-    height: 60vh;
+    height: 69vh;
   }
   .hero-section .text-container .hero-paragraph {
     margin-top: 40px;
